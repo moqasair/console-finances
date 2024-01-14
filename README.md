@@ -28,7 +28,7 @@ The JavasScripot code should produce these results in the Console Log
   ```
 ## Use 
 
-<img src =  "screenshot.PNG"
+<img src =  "screenshot.PNG" >
 
 
 
