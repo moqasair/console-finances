@@ -30,7 +30,7 @@ The JavasScripot code should produce these results in the Console Log
 
 <img src =  "screenshot.PNG" >
 
-#Licence
+## Licence
 
 Licensed under the MIT
 
