@@ -6,13 +6,13 @@ Using JavaScript concecpts learned through out the course a datausheet is analys
 
 * The total number of months included in the dataset.
 
-*The net total amount of Profit/Losses over the entire period.
+* The net total amount of Profit/Losses over the entire period.
 
-*The average of the changes in Profit/Losses over the entire period.
+* The average of the changes in Profit/Losses over the entire period.
 
-*The greatest increase in profits (date and amount) over the entire period.
+* The greatest increase in profits (date and amount) over the entire period.
 
-*The greatest decrease in profits (date and amount) over the entire period. 
+* The greatest decrease in profits (date and amount) over the entire period. 
 
 
 The JavasScripot code should produce these results in the Console Log
@@ -28,7 +28,7 @@ The JavasScripot code should produce these results in the Console Log
   ```
 ## Use 
 
-<img src =  
+<img src =  "screenshot.PNG"
 
 
 
