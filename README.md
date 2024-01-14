@@ -26,10 +26,13 @@ The JavasScripot code should produce these results in the Console Log
   Greatest Increase in Profits/Losses: Feb-2012 ($1926159)
   Greatest Decrease in Profits/Losses: Sep-2013 ($-2196167)
   ```
-## Use 
+## Screenshot
 
 <img src =  "screenshot.PNG" >
 
+#Licence
+
+Licensed under the MIT
 
 
 
