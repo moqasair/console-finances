@@ -28,7 +28,7 @@ The JavasScripot code should produce these results in the Console Log
   ```
 ## Use 
 
-<img src =  "https://github.com/moqasair/console-finances/blob/main/screenshot.PNG?raw=true"
+<img src =  "screenshot.PNG"
 
 
 
